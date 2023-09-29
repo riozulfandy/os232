@@ -15,5 +15,9 @@ Explain briefly about Cybersecurity. Summarizes about cybersecurity and what it 
 Explain briefly about linux from scratch to beginner. Explain what is LFS, is it hard or not, and is it worth it or not.
 * [Why Linux is better for (most) developers!](https://www.youtube.com/watch?v=E_C3pgc1Iho) ---
 Explain why developers have to use Linux. This video tell about languange support and access, flexibility, and limitations of Linux for developers.
+* [Chat GPT](https://chat.openai.com/) ---
+ChatGPT is a type of AI language model developed by OpenAI. It can help us by answering the questions we ask. So it is very helpful in studying and doing assignments.
+* [Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html) ---
+Cheat sheet for Linux basic to advance command. Helps us quickly find out how to perform certain functions by utilizing Linux commands.
 <br>
 <hr>
