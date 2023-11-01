@@ -19,5 +19,13 @@ Explain why developers have to use Linux. This video tell about languange suppor
 ChatGPT is a type of AI language model developed by OpenAI. It can help us by answering the questions we ask. So it is very helpful in studying and doing assignments.
 * [Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html) ---
 Cheat sheet for Linux basic to advance command. Helps us quickly find out how to perform certain functions by utilizing Linux commands.
+* [Clone Virtual Machine](https://www.youtube.com/watch?v=FP4Frqe01JY) ---
+Cloning virtual machine tutorial on VirtualBox. Clone virtual machine is helpful for test system machine settings but no worries to lose important file.
+* [Makefile](https://www.tutorialspoint.com/makefile/index.htm#:~:text=Makefile%20is%20a%20program%20building,help%20of%20user%2Ddefined%20makefiles.) ---
+Understand Makefiles and it uses. Tutorial that contains an explanation of how to use and create Makefiles.
+* [Linux Fork](https://www.geeksforgeeks.org/fork-system-call/) ---
+Explanation about fork. Explain what is fork and its utility on linux.
+* [Linux Extract Tar.xz](https://www.cyberciti.biz/faq/how-to-extract-tar-xz-files-in-linux-and-unzip-all-files/) ---
+Its briefly explain about tar.xz file in linux. Also explains how to extract it.
 <br>
 <hr>
