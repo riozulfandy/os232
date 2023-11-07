@@ -27,5 +27,9 @@ Understand Makefiles and it uses. Tutorial that contains an explanation of how t
 Explanation about fork. Explain what is fork and its utility on linux.
 * [Linux Extract Tar.xz](https://www.cyberciti.biz/faq/how-to-extract-tar-xz-files-in-linux-and-unzip-all-files/) ---
 Its briefly explain about tar.xz file in linux. Also explains how to extract it.
+* [SCP Tutorial](https://4sysops.com/archives/scp-from-remote-to-local/) ---
+Scp is useful in file copying. This link provides a tutorial on how to scp from remote to local.
+* [Cryptography](https://www.youtube.com/playlist?list=PLyYkJZR4un3qGUfq2-WzcJnvDAOdOF8WR) ---
+Cryptography is the science of encoding data. This link teaches basic cryptography to students.
 <br>
 <hr>
