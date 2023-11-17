@@ -31,5 +31,9 @@ Its briefly explain about tar.xz file in linux. Also explains how to extract it.
 Scp is useful in file copying. This link provides a tutorial on how to scp from remote to local.
 * [Cryptography](https://www.youtube.com/playlist?list=PLyYkJZR4un3qGUfq2-WzcJnvDAOdOF8WR) ---
 Cryptography is the science of encoding data. This link teaches basic cryptography to students.
+* [Linux From Scratch Book](https://www.linuxfromscratch.org/) ---
+This is the Linux From Scratch handbook. Very helpful in explaining the steps to do Linux From Scratch.
+* [Linux From Scratch Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+This is a YouTube playlist that explains Linux From Scratch step-by-step. This playlist is very helpful so you don't have doubts about the results of the steps in doing Linux From Scratch.
 <br>
 <hr>
