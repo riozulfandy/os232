@@ -35,5 +35,9 @@ Cryptography is the science of encoding data. This link teaches basic cryptograp
 This is the Linux From Scratch handbook. Very helpful in explaining the steps to do Linux From Scratch.
 * [Linux From Scratch Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
 This is a YouTube playlist that explains Linux From Scratch step-by-step. This playlist is very helpful so you don't have doubts about the results of the steps in doing Linux From Scratch.
+* [Bing Chat](https://www.bing.com/chat) ---
+Bing is a pre-trained AI chatbot. Bing is very helpful in obtaining various information and assistance when doing assignments.
+* [Mass Storage](https://www.youtube.com/playlist?list=PLskQvPDUk0sIpg-7EGPiE_kPjpAakY_ey) ---
+Explaine about mass storage in Opeerating System. Very helpful to understand material taught in class.
 <br>
 <hr>
